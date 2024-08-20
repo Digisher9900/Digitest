@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #!/bin/bash
 
 # Author Venkatesh Raju
 # Date 20-08-2024
 echo "Hello Venkatesh Raju"
+=======
+Hello test
+>>>>>>> refs/remotes/origin/main
